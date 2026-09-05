@@ -1,11 +1,11 @@
 # CLASE-4INT
-clase Nro 4 intensivo
-*Este cuaderno contiene los siguientes temas:
-*Mapa mental: El suicidio.
-*Infografia: El cansancio.
-*Presentacion:  Revolucion tecnologicas.
-*podcast: debate sobre turista y bagabundo.
-*video: Patrón patológico de la sociedad actual.
+## clase Nro 4 intensivo
+* Este cuaderno contiene los siguientes temas:
+* Mapa mental: El suicidio.
+* Infografia: El cansancio.
+* Presentacion:  Revolucion tecnologicas.
+* podcast: debate sobre turista y bagabundo.
+* video: Patrón patológico de la sociedad actual.
 
 ---
 
